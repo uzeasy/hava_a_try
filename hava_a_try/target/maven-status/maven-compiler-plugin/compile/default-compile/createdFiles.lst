@@ -1,0 +1,5 @@
+Main.class
+com\uzeasy\action\RegisterAction.class
+com\uzeasy\store\Message.class
+com\uzeasy\model\Person.class
+com\uzeasy\action\HelloWorldAction.class
